@@ -9,7 +9,7 @@ public class CarTest1 {
     sedan.stop();
 
 
-    System.out.println("--------------------------------");
+    System.out.println("---------------------------------");
 
     Truck truck = new Truck();
     truck.start();
